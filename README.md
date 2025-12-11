@@ -7,7 +7,8 @@ The _mini-auspex_ package contains the functions to process and analyze nondestr
 ### 📋Example: Total Focusing Method (TFM) 
 
 The example present in the file [immersion_TFM.ipynb](https://github.com/lassip-utfpr/mini-auspex-examples/blob/main/immersion_TFM.ipynb) provides a fully functional exemplary utilization of the Total Focusing Method (TFM) imaging algorithm from the [_mini-auspex_](https://www.google.com/url?q=https%3A%2F%2Fpypi.org%2Fproject%2Fmini-auspex%2F) Python library.
-<a href='https://colab.research.google.com/drive/1vLUmfbmtpuQCr2o68tJ2GWtZq1v0cce_?usp=sharing'><a> <img align="center" width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />  Run this Notebook on Google Colaboratory</a>
+
+<img align="center" width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" /> [Run this Notebook on Google Colaboratory](https://colab.research.google.com/drive/1vLUmfbmtpuQCr2o68tJ2GWtZq1v0cce_?usp=sharing)
 
 ### Documentation
 The documentation for the _mini-auspex_ library can be accessed in: 
