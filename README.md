@@ -10,7 +10,7 @@ The example present in the file [immersion_TFM.ipynb](https://github.com/lassip-
 
 <img align="center" width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" /> [Run this Notebook on Google Colaboratory](https://colab.research.google.com/drive/1vLUmfbmtpuQCr2o68tJ2GWtZq1v0cce_?usp=sharing)
 
-### Documentation
+### 📚Documentation
 The documentation for the _mini-auspex_ library can be accessed in: 
 
 ➡️[**https://lassip-utfpr.github.io/webauspex/docs/index.html**](https://lassip-utfpr.github.io/webauspex/docs/index.html)
